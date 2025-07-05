@@ -38,8 +38,7 @@ At the moment I am studying at rs-school with the aim of obtaining a profession 
 ---
 *This code bubble sorts an array in ascending order.*
 
-```
-def bubble_sort(arr):
+```def bubble_sort(arr):
     n = len_arr(arr)
     for i in range(n):
   if arr[j] > arr[j+1]:
@@ -52,8 +51,7 @@ def len_arr(arr):
     count = 0
     for _ in arr:
       count += 1
-    return count
-    ```
+    return count```
 
 ---
 ## Courses:
