@@ -63,7 +63,7 @@ RS-school
 ## Languages
 ---
 * Russian - native
-* English - intermideate
+* English - intermediate
 * Belarussian - native
 * Franch - elementary
 
