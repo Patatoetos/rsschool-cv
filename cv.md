@@ -51,7 +51,7 @@ def len_arr(arr):
     count = 0
     for _ in arr:
       count += 1
-    return count```
+    `return count`
 
 ---
 ## Courses:
