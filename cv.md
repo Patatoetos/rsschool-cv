@@ -54,9 +54,17 @@ def len_arr(arr):
     return count
 
 ---
-Courses:
+## Courses:
 ---
 
 RS-school
 
-it is not end.
+---
+## Languages
+---
+* Russian - native
+* English - intermideate
+* Belarussian - native
+* Franch - elementary
+
+it is just to begining...
