@@ -1,3 +1,3 @@
 # rsschool-cv
 studies
-https//https://github.com/Patatoetos/rsschool-cv/blob/gh-pages/cv.md
+https://github.com/Patatoetos/rsschool-cv/blob/rsschool-cv-html/index.html
