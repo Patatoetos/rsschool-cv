@@ -1,13 +1,3 @@
-.container{
-    dysplay:flexbox;
-    flex-derection: row;
-    align-center;
-    width: 100px;
-    height: 30px;
-    padding: 10px;
-    color: blue;
-    background-color: black;
-}
 .#header{
     display: flexbox;
     background-color: black;
