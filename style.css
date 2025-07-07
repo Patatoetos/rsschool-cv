@@ -1,3 +1,25 @@
-<style>
-styles of cv
-</style>
+.container{
+    dysplay:flexbox;
+    flex-derection: row;
+    align-center;
+    width: 100px;
+    height: 30px;
+    padding: 10px;
+    color: blue;
+    background-color: black;
+}
+.#header{
+    display: flexbox;
+    background-color: black;
+    color:blue;
+    width: 100px;
+    height: 25px;
+    align-self: start
+}
+.#futter{
+    display:block;
+    align-self: flex-end;
+    background-color: brown
+    width: 100em;
+    height: 30em;
+}
