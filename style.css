@@ -6,10 +6,3 @@
     height: 25px;
     align-self: start
 }
-.#futter{
-    display:block;
-    align-self: flex-end;
-    background-color: brown
-    width: 100em;
-    height: 30em;
-}
