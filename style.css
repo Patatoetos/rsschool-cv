@@ -3,11 +3,31 @@
     color: brown;
 }
 .image{
-    border-radius: 100%;
     width: 15%;
     height: 15%;
+    border-color: rgb(228, 50, 19);
+    border-radius: 10px;
 }
 .footerlogo{
     width: 10%;
     height: 10%;
+}
+.container-hader{
+    display: flexbox;
+    align-items: center;
+}
+.body{
+    /*display: flexbox;
+    position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-25%, -25%);*/
+}
+.avaflex{
+    display: flexbox;
+    width: 50%;
+}
+.navigator{
+    display: block;
+    align: right;
 }
