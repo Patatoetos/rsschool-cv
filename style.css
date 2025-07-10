@@ -2,3 +2,12 @@
     text-transform: uppercase;
     color: brown;
 }
+.image{
+    border-radius: 100%;
+    width: 15%;
+    height: 15%;
+}
+.footerlogo{
+    width: 10%;
+    height: 10%;
+}
