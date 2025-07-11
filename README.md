@@ -1,5 +1,4 @@
 # rsschool-cv
-studies
-https://patatoetos.github.io/rsschool-cv/
+My CV(html) https://patatoetos.github.io/rsschool-cv/
 
-https://github.com/Patatoetos/rsschool-cv/blob/gh-pages/cv.md
+My CV(md) https://github.com/Patatoetos/rsschool-cv/blob/gh-pages/cv.md
