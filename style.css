@@ -1,33 +1,37 @@
-.header{
-    text-transform: uppercase;
-    color: brown;
-}
 .image{
-    width: 15%;
-    height: 15%;
-    border-color: rgb(228, 50, 19);
+    display:block;
     border-radius: 10px;
+    height: 35%;
+    width:35%;
+    margin-left: 45%;
 }
-.footerlogo{
-    width: 10%;
-    height: 10%;
+.hader{
+    display:flexbox;
+    background-color: blueviolet;
+    columns:2;
 }
-.container-hader{
-    display: flexbox;
-    align-items: center;
+.name{
+    display: inline-flexbox;
+    background-color: brown;
+    width: 80%;
+    height: 5%;
+    margin-left: 10%;
 }
-.body{
-    /*display: flexbox;
-    position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-25%, -25%);*/
+.profession{
+    color:bisque
 }
-.avaflex{
-    display: flexbox;
-    width: 50%;
+.navigasion{
+    display: inline-flexbox;
+    background-color: aqua;
+    width:70%;
+    height:5%;
+    margin-left: 10%;
 }
-.navigator{
-    display: block;
-    align: right;
+.navigasion > nav > div{
+    display: inline-flex;
+    margin: 19px;
+}
+.name > div{
+    display:inline-flex;
+    margin: 15px;
 }
