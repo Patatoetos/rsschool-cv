@@ -7,7 +7,7 @@
 }
 .hader{
     display:flexbox;
-    background-color:blueviolet;
+    background-color:transparent;
     columns:2;
 }
 .name{
@@ -43,7 +43,7 @@
 }
 .mainer{
     display:flexbox;
-    background-color:aquamarine;
+    background-color:transparent;
     columns:2;
 }
 .contacts{
@@ -90,7 +90,7 @@
 }
 .code{
     width: 70%;
-    background-color: rgb(238, 231, 231);
+    background-color:rgb(238, 234, 234);
 }
 .imagefooter{
     display:inline-block;
@@ -101,7 +101,7 @@
 }
 .footerer{
 display:flexbox;
-background-color: brown;
+background-color: transparent;
 width: 100%;
 height: 100px;
 }
