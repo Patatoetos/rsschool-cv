@@ -1,0 +1,116 @@
+.image{
+    display:block;
+    border-radius: 10px;
+    height: 35%;
+    width:35%;
+    margin-left: 50%;
+}
+.hader{
+    display:flexbox;
+    background-color:transparent;
+    columns:2;
+}
+.name{
+    display: inline-flexbox;
+    background-color:transparent;
+    width: 80%;
+    height: 5%;
+    margin-left: 5%;
+    padding-top: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+.profession{
+    color:darkgoldenrod;
+    font-style: italic;
+}
+.navigasion{
+    display: inline-flexbox;
+    background-color: transparent;
+    width:70%;
+    height:5%;
+    margin-left: 5%;
+}
+.navigasion > nav > div{
+    display: inline-flex;
+    margin: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+.name > div{
+    display:inline-flex;
+    margin: 15px;
+}
+.mainer{
+    display:flexbox;
+    background-color:transparent;
+    columns:2;
+}
+.contacts{
+    display:flexbox;
+    margin-left: 60%;
+    margin-top: 50px;
+}
+.skills{
+    display:flexbox;
+    margin-left: 60%; 
+}
+.projects{
+    display:flexbox;
+    margin-left: 60%;
+    }
+.languages{
+    display:flexbox;
+    margin-left: 60%;
+}
+.hobbies{
+    display:flexbox;
+    margin-left: 60%;
+    margin-bottom: 150px;
+}
+.about{
+    display:flexbox;
+    margin-left: 5%;
+    padding-top: 3%;
+}
+.about > p{
+    width:70%;
+}
+.education{
+    display:flexbox;
+    margin-left: 5%;
+}
+.expiriense{
+    display:flexbox;
+    margin-left: 5%;
+}
+.example{
+    display:flexbox;
+    margin-left: 5%;
+}
+.code{
+    width: 70%;
+    background-color:rgb(238, 234, 234);
+}
+.imagefooter{
+    display:inline-block;
+    height:50px;
+    width: 150px;
+    padding-left: 120px;
+    padding-top: 10px;
+}
+.footerer{
+display:flexbox;
+background-color: transparent;
+width: 100%;
+height: 100px;
+}
+.footerer >div{
+    display: inline-flex;
+    font-style: italic;
+    margin-left: 30%;
+    width: 100%;
+}
+.linktogit{
+    padding-left: 120px;
+}
