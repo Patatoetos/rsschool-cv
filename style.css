@@ -7,29 +7,35 @@
 }
 .hader{
     display:flexbox;
-    background-color: blueviolet;
+    background-color:blueviolet;
     columns:2;
 }
 .name{
     display: inline-flexbox;
-    background-color: brown;
+    background-color:transparent;
     width: 80%;
     height: 5%;
-    margin-left: 10%;
+    margin-left: 5%;
+    padding-top: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
 }
 .profession{
-    color:bisque
+    color:darkgoldenrod;
+    font-style: italic;
 }
 .navigasion{
     display: inline-flexbox;
-    background-color: aqua;
+    background-color: transparent;
     width:70%;
     height:5%;
-    margin-left: 10%;
+    margin-left: 5%;
 }
 .navigasion > nav > div{
     display: inline-flex;
     margin: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
 }
 .name > div{
     display:inline-flex;
