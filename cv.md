@@ -1,24 +1,26 @@
-### My Personal CV (JS-FE developer)
+# My Personal CV (JS-FE developer)
 ===
-Mahonaw Ihar
+## Mahonaw Ihar
+![Frodo](/Frodo_profile_The_Two_Towers.png)
 ===
-Discord: flashgordon113
+### Discord: 
+flashgordon113
 ===
 At that moment I am being study at Rs-school as a student. After finished learning I suppose will find job like a Js developer.   
 ===
-Skills:
+### Skills:
 1.JS
 2.CSS
 3.HTML
 ===
-Code example:
+### Code example:
 `function(a,b){return a + b;}`
 ===
-Work Experience:
+### Work Experience:
 Support Engineer
 ===
-Education:
+### Education:
 GSTU
 ===
-English:
+### English:
 Upper Intermediate
