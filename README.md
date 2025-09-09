@@ -1,1 +1,1 @@
-https://Patatoetos.github.io/rsschool-cv/cv
+https://Patatoetos.github.io/rsschool-cv/cv.md
