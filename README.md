@@ -1,2 +1,1 @@
-# rsschool-cv
-For CV
+https://Patatoetos.github.io/rsschool-cv/
